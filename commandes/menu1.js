@@ -73,8 +73,8 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "🆃🅷🅴 🅳🅴🆂🆃🆁🅾︎🆈🅴🆁",
                     body: "Dont worry bro I have more tap to follow",
-                    thumbnailUrl: "https://freeimage.host/i/3O1bfKx",
-                    sourceUrl: "https://freeimage.host/i/3O1bfKx",
+                    thumbnailUrl: "https://files.catbox.moe/n6dmx3.jpeg",
+                    sourceUrl: "https://files.catbox.moe/n6dmx3.jpeg",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
