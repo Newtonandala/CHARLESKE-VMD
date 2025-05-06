@@ -45,7 +45,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `Charles Ke v𝚖𝚍`;
+    let menuMsg = `🅳🅴🆂🆃🆁🅾︎🆈🅴🆁`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -73,8 +73,8 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "𝐀𝐧𝐝𝐚𝐥𝐚𝐓𝐡𝐞𝐌𝐫 𝐃𝐞𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐁𝐨𝐭 𝐌𝐞𝐧𝐮",
                     body: "Dont worry bro I have more tap to follow",
-                    thumbnailUrl: "https://files.catbox.moe/b3yuyf.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VbB1G4aKwqSaC79RCK0q",
+                    thumbnailUrl: "https://freeimage.host/i/3O1bfKx",
+                    sourceUrl: "https://freeimage.host/i/3O1bfKx",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
