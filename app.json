@@ -1,8 +1,8 @@
 {
-  "name":"𝐀𝐧𝐝𝐚𝐥𝐚𝐓𝐡𝐞𝐌𝐫 𝐃𝐞𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐁𝐨𝐭",
+  "name":"🅰︎🅽🅳🅰︎🅻🅰︎ 🆃🅷🅴 🅳🅴🆂🆃🆁🅾︎🆈🅴🆁 🅱︎🅾︎🆃",
   "description":"Best whatsapp bot💥 developed by Andala.The.Mr",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://www.facebook.com/share/v/1Bh7CnDXhe/",
+  "logo":"https://freeimage.host/i/3O1bfKx",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -58,14 +58,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐀𝐧𝐝𝐚𝐥𝐚𝐓𝐡𝐞𝐌𝐫 𝐃𝐞𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐁𝐨𝐭",
+      "value":"🅰︎🅽🅳🅰︎🅻🅰︎ 🆃🅷🅴 🅳🅴🆂🆃🆁🅾︎🆈🅴🆁 🅱︎🅾︎🆃",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://www.facebook.com/share/v/1Bh7CnDXhe/",
+      "value":"https://freeimage.host/i/3O1bfKx",
       "required":false
        
      },
