@@ -26,30 +26,30 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     let infoMsg = `🎩 *Hello ${nomAuteurMessage}!* 🎩
 ━━━━━━━━━━━━━━━━━━━━
-🚀 *BOT NAME:* 🆃🅷🅴 🅳🅴🆂🆃🆁🅾︎🆈🅴🆁 🅱︎🅾︎🆃 2.1  
-━━━━━━━━━━━━━━━━━━━━
-🌍 *SYSTEM INFO:*
-💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
-━━━━━━━━━━━━━━━━━━━━
-⚙️ *BOT STATUS:*
-⭕ ᴍᴏᴅᴇ: *${mode}*
-💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
-⏳ ᴛɪᴍᴇ: ${temps}
-📆 ᴅᴀᴛᴇ: ${date}
-━━━━━━━━━━━━━━━━━━━━
-📢 *𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒 & 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒:*  
-📺 𝐘𝐎𝐔𝐓𝐔𝐁𝐄:  
-🔗 https://youtube.com/@hamaxandroidgaming?si=_KfwU9DCC1uKPDQE  
-📘 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:  
-🔗 https://www.facebook.com/newton.andala.2025  
-📢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏:  
-🔗 https://chat.whatsapp.com/CfJONhLpQp6Bzb2HQ2ty9E  
-📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:  
-🔗 https://www.instagram.com/delalozi?igsh=MTU5ZGk4Z3p0M2RtNg==  
-━━━━━━━━━━━━━━━━━━━━
+|🚀 *BOT NAME:🅐🅝🅓🅐🅛🅐 🅚🅔 
+|━━━━━━━━━━━━━━━━━━━━
+|🌍 *SYSTEM INFO:*
+|💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
+|━━━━━━━━━━━━━━━━━━━━
+|⚙️ *BOT STATUS:*
+|⭕ ᴍᴏᴅᴇ: *${mode}*
+|💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
+|⏳ ᴛɪᴍᴇ: ${temps}
+|📆 ᴅᴀᴛᴇ: ${date}
+|━━━━━━━━━━━━━━━━━━━━
+|📢 *𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒 & 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒:*  
+|📺 𝐘𝐎𝐔𝐓𝐔𝐁𝐄:  
+|🔗 https://youtube.com/@hamaxandroidgaming?si=_KfwU9DCC1uKPDQE  
+|📘 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:  
+|🔗 https://www.facebook.com/newton.andala.2025  
+|📢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏:  
+|🔗 https://chat.whatsapp.com/CfJONhLpQp6Bzb2HQ2ty9E  
+|📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:  
+|🔗 https://www.instagram.com/delalozi?igsh=MTU5ZGk4Z3p0M2RtNg==  
+|━━━━━━━━━━━━━━━━━━━━
 ${readMore}
-📜 *COMMAND MENU* 📜
-━━━━━━━━━━━━━━━━━━━━\n`;
+|📜 *COMMAND MENU* 📜
+|━━━━━━━━━━━━━━━━━━━━\n`;
 
     let menuMsg = ``;
 
@@ -61,9 +61,9 @@ ${readMore}
         menuMsg += `━━━━━━━━━━━━━━━━━━━━\n`;
     }
 
-    menuMsg += `✨ *𝐃𝐄𝐒𝐓𝐑𝐎𝐘𝐄𝐑 𝐁𝐎𝐓 - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 Andala ke* ✨`;
+    menuMsg += `✨ *𝐃𝐄𝐒𝐓𝐑𝐎𝐘𝐄𝐑 𝐁𝐎𝐓 -By Andala ke* ✨`;
 
-    let imageUrl = "https://freeimage.host/i/3O1bfKx";
+    let imageUrl = "https://files.catbox.moe/n6dmx3.jpeg";
 
     try {
         zk.sendMessage(dest, { 
