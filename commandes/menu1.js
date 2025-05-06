@@ -71,7 +71,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "𝐀𝐧𝐝𝐚𝐥𝐚𝐓𝐡𝐞𝐌𝐫 𝐃𝐞𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐁𝐨𝐭 𝐌𝐞𝐧𝐮",
+                    title: "🆃🅷🅴 🅳🅴🆂🆃🆁🅾︎🆈🅴🆁",
                     body: "Dont worry bro I have more tap to follow",
                     thumbnailUrl: "https://freeimage.host/i/3O1bfKx",
                     sourceUrl: "https://freeimage.host/i/3O1bfKx",
