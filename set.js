@@ -14,7 +14,7 @@ module.exports = { session: process.env.SESSION_ID || 'eyJub2lzZUtleSI6eyJwcml2Y
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
     BOT : process.env.BOT_NAME || 'BMW_MD',
-    URL : process.env.BOT_MENU_LINKS || 'https://www.facebook.com/photo.php?fbid=122116547234659441&set=a.122108372474659441&type=3&mibextid=QA5svzWng9eESdTi',
+    URL : process.env.BOT_MENU_LINKS || 'https://freeimage.host/i/3O1bfKx',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
