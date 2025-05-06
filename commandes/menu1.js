@@ -62,7 +62,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> Made By ғCharles Ke\n`;
+> Made By ғandala Ke\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
@@ -71,10 +71,10 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "CHARLESKE-VMD MENU LIST",
+                    title: "𝐀𝐧𝐝𝐚𝐥𝐚𝐓𝐡𝐞𝐌𝐫 𝐃𝐞𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐁𝐨𝐭 𝐌𝐞𝐧𝐮",
                     body: "Dont worry bro I have more tap to follow",
                     thumbnailUrl: "https://files.catbox.moe/b3yuyf.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K",
+                    sourceUrl: "https://whatsapp.com/channel/0029VbB1G4aKwqSaC79RCK0q",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
