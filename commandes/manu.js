@@ -26,7 +26,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     let infoMsg = `🎩 *Hello ${nomAuteurMessage}!* 🎩
 ━━━━━━━━━━━━━━━━━━━━
-🚀 *BOT NAME:* AndalaTheMr Destroyer Bot 2.1  
+🚀 *BOT NAME:* 🆃🅷🅴 🅳🅴🆂🆃🆁🅾︎🆈🅴🆁 🅱︎🅾︎🆃 2.1  
 ━━━━━━━━━━━━━━━━━━━━
 🌍 *SYSTEM INFO:*
 💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
@@ -63,7 +63,7 @@ ${readMore}
 
     menuMsg += `✨ *𝐃𝐄𝐒𝐓𝐑𝐎𝐘𝐄𝐑 𝐁𝐎𝐓 - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 Andala ke* ✨`;
 
-    let imageUrl = "https://www.facebook.com/share/v/1Bh7CnDXhe/";
+    let imageUrl = "https://freeimage.host/i/3O1bfKx";
 
     try {
         zk.sendMessage(dest, { 
